@@ -42,5 +42,5 @@
 # Fonts
   Everything in this repository was based on the Client-OAuth2 documentation.
   
-  For more information, follow the documentation.
+  For more information, follow the documentation.<br>
   https://github.com/mulesoft/js-client-oauth2
