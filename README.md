@@ -11,7 +11,7 @@
   
 # Usage
 
-  To authenticate you need to configure the ID and Routes in the module instance.
+  To authenticate, you need to define the ID and routes in the module instance in the 'index.js' file.
   ```javascript
   var githubAuth = new ClientOAuth2({
     clientId: 'your_client_id',
