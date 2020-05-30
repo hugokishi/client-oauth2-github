@@ -38,3 +38,8 @@
 * **body** An object to merge with the body of every request.
 * **query** An object to merge with the query parameters of every request.
 * **headers** An object to merge with the headers of every request.
+
+# Fonts
+  Everything in this repository was based on the Client-OAuth2 documentation.
+
+  https://github.com/mulesoft/js-client-oauth2
