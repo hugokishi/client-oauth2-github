@@ -22,6 +22,7 @@
     scopes: ['scopes']
   })
   ```
+  PS: You have the option to change the request routes, in this example used on GitHub.
   
 # Options (global and method-based)
 
